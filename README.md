@@ -1,0 +1,2 @@
+# strona_zaliczeniowa
+Strona
